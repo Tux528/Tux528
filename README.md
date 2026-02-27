@@ -1,16 +1,29 @@
-## Hi there 👋
+## 🇫🇷 French software engineering student
 
-<!--
-**Tux528/Tux528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Focused on Windows systems and long-term system tooling.**
 
-Here are some ideas to get you started:
+### 🚀 Main Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧹 [Leftovers Hunter](https://github.com/Tux528/Leftovers-Hunter)
+
+Surgical Windows analysis tool built on advanced regex heuristics and accurate false-positive control.
+
+---
+
+⚙ [WinExport](https://github.com/Tux528/WinExport)
+
+Windows utility to export and restore system settings in a structured way.
+
+---
+
+### 🛠️ Tech Stack
+
+Batch · PowerShell · C# · VB.NET · .NET · Advanced Regex
+
+### 🎯 What You'll Find Here
+
+Not quick scripts.
+
+But system-level tools built and maintained over time.
+
+If you're interested in Windows tooling beyond surface-level utilities, you're in the right place. 😉
