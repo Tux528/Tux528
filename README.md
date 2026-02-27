@@ -1,6 +1,6 @@
 # 🇫🇷 French software engineering student
 
-> **Focused on Windows systems and long-term system tooling.**
+> ### **Focused on Windows systems and long-term system tooling.**
 
 ## 🚀 Main Projects
 
@@ -24,6 +24,6 @@ Batch · PowerShell · C# · VB.NET · .NET · Advanced Regex
 
 Not quick scripts.
 
-But system-level tools built and maintained over time.
+But system-level tools built and maintained over time. 🚀
 
 If you're interested in Windows tooling beyond surface-level utilities, you're in the right place. 😉
