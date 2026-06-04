@@ -2,7 +2,7 @@
 
 > ### **Focused on Windows systems and long-term system tooling.**
 
-## 🚀 Main Projects
+## Main Projects
 
 ### [Leftovers Hunter](https://github.com/Tux528/Leftovers-Hunter)
 
@@ -16,11 +16,11 @@ Windows utility to export and restore system settings in a structured way.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 Batch · PowerShell · C# · VB.NET · .NET · Advanced Regex
 
-## 🎯 What You'll Find Here
+## What You'll Find Here
 
 Not quick scripts.
 
