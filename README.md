@@ -4,13 +4,13 @@
 
 ## 🚀 Main Projects
 
-### 🧹 [Leftovers Hunter](https://github.com/Tux528/Leftovers-Hunter)
+### [Leftovers Hunter](https://github.com/Tux528/Leftovers-Hunter)
 
 Surgical Windows analysis tool built on advanced regex heuristics and accurate false-positive control.
 
 ---
 
-### ⚙ [WinExport](https://github.com/Tux528/WinExport)
+### [WinExport](https://github.com/Tux528/WinExport)
 
 Windows utility to export and restore system settings in a structured way.
 
